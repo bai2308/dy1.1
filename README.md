@@ -109,13 +109,8 @@ npm run dev
 
 ## 联系我
 
-您可以联系我的邮箱 <a href="mailto:zyronon@163.com">zyronon@163.com</a>
-> 分享我其他开源项目：
->
->_[**Typing Word
-** - 可在网页上使用的背单词软件~](https://github.com/zyronon/typing-word) <img src="https://img.shields.io/github/stars/zyronon/typing-word.svg?style=flat-square&label=Star&color=4285dd&logo=github" height="16px" />_  
-> _[**Web Scripts
-** - 一些好用的油猴脚本~](https://github.com/zyronon/web-scripts) <img src="https://img.shields.io/github/stars/zyronon/web-scripts.svg?style=flat-square&label=Star&color=4285dd&logo=github" height="16px" />_
+您可以联系我的邮箱 <a href="2308229535@qq.com">qq.com</a>
+
 
 ## 许可协议
 
